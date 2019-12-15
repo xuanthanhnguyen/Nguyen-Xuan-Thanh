@@ -1,0 +1,11 @@
+C:\Users\xtpro\source\repos\Caculator_Standar\Caculator_Standar\bin\Debug\Caculator_Standar.exe.config
+C:\Users\xtpro\source\repos\Caculator_Standar\Caculator_Standar\bin\Debug\Caculator_Standar.exe
+C:\Users\xtpro\source\repos\Caculator_Standar\Caculator_Standar\bin\Debug\Caculator_Standar.pdb
+C:\Users\xtpro\source\repos\Caculator_Standar\Caculator_Standar\bin\Debug\Caculator_Standar.xml
+C:\Users\xtpro\source\repos\Caculator_Standar\Caculator_Standar\obj\Debug\Caculator_Standar.vbprojAssemblyReference.cache
+C:\Users\xtpro\source\repos\Caculator_Standar\Caculator_Standar\obj\Debug\Caculator_Standar.Caculator.resources
+C:\Users\xtpro\source\repos\Caculator_Standar\Caculator_Standar\obj\Debug\Caculator_Standar.Resources.resources
+C:\Users\xtpro\source\repos\Caculator_Standar\Caculator_Standar\obj\Debug\Caculator_Standar.vbproj.GenerateResource.cache
+C:\Users\xtpro\source\repos\Caculator_Standar\Caculator_Standar\obj\Debug\Caculator_Standar.exe
+C:\Users\xtpro\source\repos\Caculator_Standar\Caculator_Standar\obj\Debug\Caculator_Standar.xml
+C:\Users\xtpro\source\repos\Caculator_Standar\Caculator_Standar\obj\Debug\Caculator_Standar.pdb
